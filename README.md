@@ -44,5 +44,5 @@ Encontrar o melhor custo-benefício em imóveis para aluguel com base em critér
 ## 👨‍💻 Autor
 
 Marciel Carlos Medeiros de Oliveira  
-[GitHub](https://github.com/seuusuario)  
-Estudante de Sistemas de Informação na FIAP | Analista de Dados Jr
+[GitHub](https://github.com/Marciel-Analytics)  
+
